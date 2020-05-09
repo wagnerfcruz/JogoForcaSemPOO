@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Files
+*.iml
+*.DS_Store
+
+# Folder
+*.idea/*
+
 # Log file
 *.log
 
